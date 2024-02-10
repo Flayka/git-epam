@@ -2,16 +2,5 @@
 2 nd line
 3rd line
 4th line
-<<<<<<< HEAD
-
 6 st
 7th
-
-
-!!!!!!!!!!!!
-||||||| c5a8226 (2 more lines)
-
-6 st
-7th
-=======
->>>>>>> parent of c5a8226 (2 more lines)
